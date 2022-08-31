@@ -1,0 +1,89 @@
+ body {
+    background-color: #F3D897;
+} 
+
+.container {
+    margin: 150px;
+    background-color: aliceblue;
+    border-radius: 10px;
+    padding: 90px;
+
+}
+
+span {
+    color: aqua;
+}
+
+.txt-fld input {
+    padding: 8px;
+    border-radius: 10px;
+    margin-left: 10%;
+
+}
+
+.logo {
+    display: flex;
+}
+
+.logo p {
+    font-size: 18px;
+}
+
+.logo .signup {
+    padding-left: 450px;
+}
+
+.container h1 {
+    font-size: 40px;
+} 
+
+  /* .col {
+    display: block;
+}  */
+
+.txt-fld label input {
+    display: flex;
+    margin: 10px;
+    border: 1px solid rgb(150, 143, 143) ;
+}
+
+.txt-fld label {
+    margin: 10px;
+    font-size: 20px;
+}
+
+.txt-fld input {
+    width: 330px;
+    height: 20px;
+} 
+
+ button {
+    background-color: #469DA4;
+    border: none;
+    color: white;
+     /* padding: 15px 32px,; */
+    text-align: center;
+    font-size: 16px;
+    margin: 30px 3px; 
+    border-radius: 10px; 
+    width: 380px;
+    height: 30px;
+   
+    
+   
+ } 
+.check_box .forget{
+    padding: 140px;
+}
+img{
+    margin-left: 500px;
+    margin-top: -2000px;
+    height: 300px;
+    width: 300px;
+}  
+/* .myicons{
+    display: block;
+} */
+.myicons i{
+    padding: 30px ;
+}
